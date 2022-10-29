@@ -1,2 +1,2 @@
-This is the fifth commit.
-This is a wrong commit. It will be removed eventually!
+This is the sixth commit.
+You start here! Follow the instructions provided to complete this task!
