@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 This is the sixth commit.
 You start here! Follow the instructions provided to complete this task!
->>>>>>> parent of fdb3ac2 (commit 5)
