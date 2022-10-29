@@ -1,2 +1,2 @@
-This is the fourth commit.
-You should be reading this after step 1!
+This is the fifth commit.
+This is a wrong commit. It will be removed eventually!
